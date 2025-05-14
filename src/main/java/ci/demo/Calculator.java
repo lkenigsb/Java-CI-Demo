@@ -2,9 +2,9 @@ package ci.demo;
 
 public class Calculator
 {
-    public double add(final double theFirstNum, final double secondNum)
+    public double add(final double firstNum, final double secondNum)
     {
-        return theFirstNum + secondNum;
+        return firstNum + secondNum;
     }
 
     public double subtract(final double firstNum, final double secondNum)
