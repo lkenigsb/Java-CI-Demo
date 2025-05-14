@@ -7,6 +7,6 @@ public class Calculator
     }
 
     public double subtract(final double firstNum, final double secondNum) {
-        return firstNum - secondNum;
+        return firstNum + secondNum;
     }
 }
